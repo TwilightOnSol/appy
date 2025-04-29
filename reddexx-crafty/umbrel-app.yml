@@ -29,6 +29,6 @@ gallery:
 releaseNotes: >
   
 dependencies: []
-path: ""
+path: "umbrel"
 defaultUsername: "admin"
 defaultPassword: "Read Description"
